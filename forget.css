@@ -1,0 +1,35 @@
+body{
+    color:#00303f;
+}
+.login-form{
+    margin-top: 0%;
+    margin-bottom: 5%;
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    background: #DEEDF9;
+    border-radius: 11px;
+}
+
+.subbtn{
+    cursor: pointer;
+
+}
+.custnav{
+    background-color: #DEEDF9;
+    color:#00303f;
+}
+.custnav > a{
+    color:#00303f;
+}
+.img {
+    margin-left: 10rem;
+    margin-top:-95px;
+}
+.offset-md-3 {
+    
+     margin-top: 152px; 
+}
+.img[_ngcontent-mwv-c1] {
+    margin-left: 76px;
+    margin-top: -95px;
+}
